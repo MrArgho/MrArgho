@@ -11,3 +11,5 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: https://www.facebook.com/argho66/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm really in love with Gaming
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrArgho&theme=radical)
